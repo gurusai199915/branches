@@ -1,1 +1,2 @@
-public class sandeep?()
+public class sandeep()
+  system.out.println("hello world")
